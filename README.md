@@ -1,0 +1,3 @@
+- 👋 Hi, I’m park.
+- 👀 I’m interested in ai
+- 🌱 I’m currently learning gpt ai
